@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: file:///home/iam-abhiraj/three-tier-argo-sync
+    repoURL: https://github.com/Abhiraj-1604/Three-Tier-Applications
     targetRevision: HEAD
     path: .
   destination:
